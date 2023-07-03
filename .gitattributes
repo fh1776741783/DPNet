@@ -1,0 +1,2 @@
+/Users/fuhao/Documents/GitHub/DPNet/model_best.ckpt filter=lfs diff=lfs merge=lfs -text
+*.ckpt filter=lfs diff=lfs merge=lfs -text
